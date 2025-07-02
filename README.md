@@ -1,3 +1,16 @@
+### How to Join
+Current Version: **Java 1.21.4**
+
+Bedrock **is** supported but *may not be updated.*
+
+Java IP: 209.192.187.115:25720
+
+Bedrock IP: 209.192.187.115 with port 8738
+
+##
+
+### Mods Guide
+
 ### Recommended Client-side Mods to Pair
 You can join the server without any mods, but it does support some client-side ones that help a lot when playing:
 - Liteminer - To break a lot of blocks quickly
