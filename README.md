@@ -1,11 +1,11 @@
 ### How to Join
 Current Version: **Java 1.21.4**
 
-Bedrock **is** supported but *may not be updated.*
+Bedrock **IS NO LONGER SUPPORTED.**
 
 Java IP: 209.192.187.115:25720
 
-Bedrock IP: 209.192.187.115 with port 8738
+~~Bedrock IP: 209.192.187.115 with port 8738~~
 
 ##
 
@@ -25,7 +25,7 @@ You can join the server without any mods, but it does support some client-side o
 - Image2map - Add Images on the world as Maps
 - No Durability - Yep, no more durability!
 - No Hostiles Around Campfire - Mobs won't spawn in a 128 block radius from a campfire.
-- Floodgate + Geyser - So Bedrock Users can join this Java Server
+- ~~Floodgate + Geyser - So Bedrock Users can join this Java Server~~
 - Essential Commands - /tpa, /rtp, /home, /warp
 
 ### Quality of Life
