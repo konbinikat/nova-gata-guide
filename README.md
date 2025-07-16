@@ -9,7 +9,7 @@ Java IP: 209.192.187.115:25720
 
 ##
 
-### Current Mods on Server Version 1.1
+### Current Mods on Server Version 1.2
 
 ### Recommended Client-side Mods to Pair
 You can join the server without any mods, but it does support some client-side ones that help a lot when playing:
