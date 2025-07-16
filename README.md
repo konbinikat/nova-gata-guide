@@ -21,6 +21,11 @@ You can join the server without any mods, but it does support some client-side o
 - Sort It Out - To sort inventories and chests and whatnot (Works on the server, double click an empty slot)
 
 ### Game Changers
+- Arcana Novum - Fully fledged Server-side Magic mod! Not OP tho so don't engage if u don't want to
+- Trinkets - Adds trinket slots idk yet to configure this one
+- More Furnaces - Adds faster furnaces
+- Polydecorations - Many furniture options all server-side (includes blahaj)
+- Polydex - Server-side Too Many Items type mod with /polydex
 - Hybrid Beta - Changes terrain to be more like older Minecraft
 - Image2map - Add Images on the world as Maps
 - No Durability - Yep, no more durability!
@@ -61,6 +66,7 @@ You can join the server without any mods, but it does support some client-side o
 - Entity View Distance - Fixes some render troubles
 - Ksyxis - Removes Spawn Chunks
 - Lithium - No fucking clue
+- Load My F**ing Tags - Fixes some NBT stuff
 - ModernFix - Random fixes
 - No Chat Reports - Fuck you mojang
 - Noisium - Speeds up terrain generation
@@ -81,6 +87,7 @@ You can join the server without any mods, but it does support some client-side o
 - JamLib
 - Krypton
 - Placeholder API
+- Polymer
 - PuzzlesLib
 - Silk
 - Simple Resource Loader
