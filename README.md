@@ -13,6 +13,7 @@ Java IP: 209.192.187.115:25720
 
 ### Recommended Client-side Mods to Pair
 You can join the server without any mods, but it does support some client-side ones that help a lot when playing:
+- Axiom - Server for now fully supports the building suite, working on setting permissions for everyone but for now ask if interested
 - Liteminer - To break a lot of blocks quickly
 - Accessible Step - To automatically go up blocks instead of jumping
 - Distant Horizons - To dramatically increase render distance using LODs
@@ -32,6 +33,7 @@ You can join the server without any mods, but it does support some client-side o
 - No Hostiles Around Campfire - Mobs won't spawn in a 128 block radius from a campfire.
 - ~~Floodgate + Geyser - So Bedrock Users can join this Java Server~~
 - Essential Commands - /tpa, /rtp, /home, /warp
+- WorldEdit - Building stuff commands
 
 ### Quality of Life
 - Clumps - XP are big ol balls now instead of tiny ones that take forever to be absorbed 
@@ -46,9 +48,10 @@ You can join the server without any mods, but it does support some client-side o
 - Leaves Be Gone - When no more log leaf go poof
 - Liteminer - Should support all client features
 - MapFrontiers - Make regions in JourneyMap and name them and whatnot
+- Name Tag Tweaks - Makes name tags craftable but don't bother it also adds a /nametag command :3
 - Ouch! - Shows cute lil RPG looking things when you take damage and heal
 - Paper Books - Craft books with 9 paper
-- Random Bone Meal Flowers - Flowers are randomized instead of per biome when bone mealing
+- ~~Random Bone Meal Flowers - Flowers are randomized instead of per biome when bone mealing~~
 - Replanting Crops - Seeds replant themselves if you break crops with a hoe
 - Roughly Enough Items - Should support all client features
 - Smaller Nether Portals - 1x2, 2x2 you name it
